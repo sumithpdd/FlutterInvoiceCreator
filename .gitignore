@@ -25,3 +25,4 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+flutter_invoice_creator_app/lib/data/dummy_data.dart
